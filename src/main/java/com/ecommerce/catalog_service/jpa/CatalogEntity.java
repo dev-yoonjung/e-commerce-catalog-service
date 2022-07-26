@@ -13,7 +13,7 @@ import java.util.Date;
 @AllArgsConstructor
 @Builder
 @Entity
-@Table(name = "catalog")
+@Table(name = "catalogs")
 public class CatalogEntity implements Serializable {
 
     @Id
